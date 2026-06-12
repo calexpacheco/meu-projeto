@@ -1,1 +1,2 @@
-print('hello git e Antigravity')
+mensagem = "Oi"
+print(mensagem)
